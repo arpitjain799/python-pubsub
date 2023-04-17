@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
 
+## [2.16.1](https://github.com/googleapis/python-pubsub/compare/v2.16.0...v2.16.1) (2023-04-17)
+
+
+### Documentation
+
+* Add comment to setup.py ([#905](https://github.com/googleapis/python-pubsub/issues/905)) ([9825109](https://github.com/googleapis/python-pubsub/commit/9825109a826e63cd076c21367157be7a3c01c45b))
+
 ## [2.16.0](https://github.com/googleapis/python-pubsub/compare/v2.15.2...v2.16.0) (2023-04-06)
 
 
